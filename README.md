@@ -1,4 +1,4 @@
-# Autonomous Vehicle Detection
+# Vehicle Detection using YOLO
 
 End-to-end YOLOv8 object detection for autonomous-vehicle scenes.
 
